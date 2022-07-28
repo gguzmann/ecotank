@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ecotank/static/css/main.e04dd5db.css",
+    "main.js": "/ecotank/static/js/main.554f4507.js",
+    "static/media/carlitos.jpg": "/ecotank/static/media/carlitos.06c4f11a28763dfd8d47.jpg",
+    "static/media/gene.jpg": "/ecotank/static/media/gene.1af195c0edce8cdaeb23.jpg",
+    "static/media/planta.jpg": "/ecotank/static/media/planta.5aafddb520007eb7abd9.jpg",
+    "static/media/cata.jpg": "/ecotank/static/media/cata.038faf16ee590c1d57cf.jpg",
+    "static/media/arduino.jpg": "/ecotank/static/media/arduino.fcbaaf150fc6b5e5c1ca.jpg",
+    "static/media/corona.png": "/ecotank/static/media/corona.13a819dc898053f889d9.png",
+    "static/media/Gabo.jpeg": "/ecotank/static/media/Gabo.b80294b2d87e9364cfa2.jpeg",
+    "static/media/cal center.jpg": "/ecotank/static/media/cal center.36e41b069343b69a9d7e.jpg",
+    "static/media/NicolasNeira.jpeg": "/ecotank/static/media/NicolasNeira.55a1f493ab6c5732e014.jpeg",
+    "static/media/LogoEcoTank.png": "/ecotank/static/media/LogoEcoTank.f1eb528ce9badca10767.png",
+    "static/media/planta.png": "/ecotank/static/media/planta.4bc69876fcfea113c4c6.png",
+    "index.html": "/ecotank/index.html",
+    "main.e04dd5db.css.map": "/ecotank/static/css/main.e04dd5db.css.map",
+    "main.554f4507.js.map": "/ecotank/static/js/main.554f4507.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04dd5db.css",
+    "static/js/main.554f4507.js"
+  ]
+}
