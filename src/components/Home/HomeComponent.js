@@ -6,9 +6,11 @@ import Example from './CarruselComponent';
 
 const HomeComponent = () => {
     return (
-        <div style={{height: "100vh", overflow: "hidden"}}>
-            <Example />
-        </div>
+        <>
+        </>
+        // <div style={{height: "100vh", overflow: "hidden"}}>
+        //     <Example />
+        // </div>
     )
 }
 

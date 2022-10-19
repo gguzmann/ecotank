@@ -32,7 +32,6 @@ const NosotrosComponent = () => {
             <br />
             <a
               href="https://www.linkedin.com/in/catalina-castillo-belmar/"
-              target="_blank"
               class="fa-brands fa-linkedin"
             ></a>
           </h5>
@@ -52,7 +51,6 @@ const NosotrosComponent = () => {
             <br />
             <a
               href="https://www.linkedin.com/in/nicolas-neira-lopez/"
-              target="_blank"
               class="fa-brands fa-linkedin"
             ></a>
           </h5>
@@ -72,7 +70,6 @@ const NosotrosComponent = () => {
             <br />
             <a
               href="https://www.linkedin.com/in/carlos-iturra-gonzalez/"
-              target="_blank"
               class="fa-brands fa-linkedin"
             ></a>
           </h5>
@@ -95,7 +92,6 @@ const NosotrosComponent = () => {
             <br />
             <a
               href="https://www.linkedin.com/in/gguzmann/"
-              target="_blank"
               class="fa-brands fa-linkedin"
             ></a>
           </h5>
@@ -118,7 +114,6 @@ const NosotrosComponent = () => {
               id="linkge"
               class="fa-brands fa-linkedin"
               href="https://www.linkedin.com/in/genesis-quezada-rodriguez/"
-              target="_blank"
             ></a>
           </h5>
         </div>

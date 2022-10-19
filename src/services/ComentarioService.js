@@ -1,10 +1,10 @@
 import axios from "axios";
 
-const baseUrl = "http://3.143.231.179/api/comentarios"
+const baseUrl = "http://13.59.25.179/api/comentarios"
 
 const getAllComents = async() =>{
-    // const res = await axios.get(baseUrl + "/lista")
-    await axios.get('localhost:8080/api/comentarios/lista')
+    const res = await axios.get(baseUrl + "/lista")
+    // await axios.get('localhost:8080/api/comentarios/lista')
     console.log(res.data);
     return res.data;
 }

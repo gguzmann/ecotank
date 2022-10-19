@@ -1,7 +1,7 @@
 import axios from "axios"
 
 // const baseUrl = "http://localhost:8080/api/mediciones"
-const baseUrl = "http://3.143.231.179/api/mediciones"
+const baseUrl = "http://13.59.25.179/api/mediciones"
 
 export const getLastMediciones = async (id) => {
     const response = await axios.get(baseUrl + '/lista')
